@@ -6,6 +6,6 @@ References for constructing tools:
 #Simulation
 Simulation-1
 
-Use mouse to control the orbit
+Use lift click mouse to control the orbit and distance from sun
 
 1.https://preview.p5js.org/anjalishivanireddy94/present/iXh38nlAs
