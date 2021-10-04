@@ -1,5 +1,10 @@
 # Trojan-Light-Curve-Analysis
 
+# We aim to  to develop a tool that allows users to explore how the shape of an asteroid affects the appearance of its light curve. We here try to demonstrate some of the parameters of the trojan asteroids like the light curve, power density spectrum etc…using the data obtained from various open sources.
+
+
+
+
 References for constructing tools:
 1.https://p5js.org/examples/3d-geometries.html
 2.http://planetpixelemporium.com/planets.html
