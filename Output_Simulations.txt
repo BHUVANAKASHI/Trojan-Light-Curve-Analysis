@@ -1,4 +1,4 @@
-To make a tool for analyzing the asteroid shape based on light curve, We attempt to create a world similar to solar system but with four planets and two asteroids. Explore our solar system which we named annilator
+To make a tool for analyzing the asteroid shape based on light curve, We attempt to create a world similar to solar system but with four planets and two asteroids. Explore our solar system which we named as 'Hakkuna Mattata System'.
 
 https://preview.p5js.org/anjalishivanireddy94/present/iXh38nlAs
 
