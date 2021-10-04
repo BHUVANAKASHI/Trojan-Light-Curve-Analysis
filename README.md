@@ -22,4 +22,6 @@ Making the light more directional dependent
 
 4.https://editor.p5js.org/anjalishivanireddy94/full/vgmilXWkQ
 
+Real time Light Curve
 
+5.https://preview.p5js.org/anjalishivanireddy94/present/a2UX5w25q
