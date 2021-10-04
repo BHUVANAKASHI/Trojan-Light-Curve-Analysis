@@ -1,0 +1,24 @@
+To make a tool for analyzing the asteroid shape based on light curve, We attempt to create a world similar to solar system but with four planets and two asteroids. Explore our solar system which we named annilator
+
+https://preview.p5js.org/anjalishivanireddy94/present/iXh38nlAs
+
+Meet our first asteroid which has similar surface as vesta asteroid. Explore the asteroid by moving the mouse in any direction. Mouse will act as array of light pointed towards the asteroid in the direction of the mouse.
+
+https://preview.p5js.org/anjalishivanireddy94/present/iXh38nlAs
+
+ Meet our first asteroid which has similar surface as vesta asteroid. Explore the asteroid by moving the mouse in any direction. Mouse will act as array of light pointed towards the asteroid in the direction of the mouse.
+ 
+ https://preview.p5js.org/anjalishivanireddy94/present/hKIOIxkgOg
+ 
+  Meet our second asteroid created from surface of Bennu but shape is different from the first asteroid- has bulge, explore the asteroid by moving mouse, unlike the first simulation, this asteroid is in ambient light. One can see the complete asteroid. The sun reflection is shown in red light.
+ 
+ https://preview.p5js.org/anjalishivanireddy94/present/HmKWaXTGQ
+ 
+ A new asteroid yet to be discovered in this solar system which is very far away from parent star, let's try to explore the asteroid and real time light curve. This is the improvised simulation of above, the light is not point source but the amount of light incident is very less and specific direction.Move the curser in all directions including the lobes of asteroid in center. to see the light reflection.
+ 
+ https://editor.p5js.org/anjalishivanireddy94/full/vgmilXWkQ
+ 
+ Based on the moment of the curser, the light curve is generated based on frames and brighness. Check out the lightcurve
+ 
+ https://preview.p5js.org/anjalishivanireddy94/present/a2UX5w25q
+ 
