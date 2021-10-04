@@ -9,3 +9,8 @@ Simulation-1
 Use lift click mouse to control the orbit and distance from sun
 
 1.https://preview.p5js.org/anjalishivanireddy94/present/iXh38nlAs
+
+move the Mouse to focus the array of sun light on asteroid...
+
+2.https://preview.p5js.org/anjalishivanireddy94/present/hKIOIxkgOg
+
