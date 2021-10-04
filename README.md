@@ -1,6 +1,9 @@
 # Trojan-Light-Curve-Analysis
 
  We aim to  to develop a tool that allows users to explore how the shape of an asteroid affects the appearance of its light curve. We here try to demonstrate some of the parameters of the trojan asteroids like the light curve, power density spectrum etc…using the data obtained from various open sources.
+We tried to demonstrate the trojan asteroids of a planetary system that we call "Hakkuna Mattata System". Lucy: The First Mission ever attempt to explore the trojan asteroids. 
+Our team attempted to build a tool for exploring the light curve based on shape innovatively and interactively. Though asteroids are nonluminous objects, due to sunlight they reflect light to the ground and space telescope. We took the challenge to create all possible tools to explore the light curve. We created simulations of the asteroids. One can gain knowledge by exploring the simulation using simple mouse moments on the website. You will get to meet different solar system similar to ours yet different. it can be used for Analysis of the shape of the asteroid from the photons detected by photometry detector using any near by space telescope.
+
 
 
 
