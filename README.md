@@ -18,6 +18,8 @@ Light reflection under ambient light-- use mouse to focus the sun light, effecte
 
 3.https://preview.p5js.org/anjalishivanireddy94/present/HmKWaXTGQ
 
+Making the light more directional dependent
+
 4.https://editor.p5js.org/anjalishivanireddy94/full/vgmilXWkQ
 
 
